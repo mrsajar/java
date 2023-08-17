@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Calculate Purchase Amount.iml" filepath="$PROJECT_DIR$/Calculate Purchase Amount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Customer.iml" filepath="$PROJECT_DIR$/.idea/Customer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Customer-Management/Customer-Management.iml" filepath="$PROJECT_DIR$/Customer-Management/Customer-Management.iml" />
     </modules>
   </component>
 </project>
